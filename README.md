@@ -48,5 +48,4 @@ Mini interactive website to increase / decrease fishes in your tank.
 
 ## Contacts
 
-- [Linkedin](https://www.linkedin.com/in/momoko568/)
 - jijithekawaiicat@gmail.com
